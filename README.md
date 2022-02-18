@@ -2,7 +2,7 @@
 - 👀 I’m interested in flutter
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me freesyr123411@gmail.com
+- 📫 How to reach me samozayncom@gmail.com
 
 <!---
 Samoz93/Samoz93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
