@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me samozayncom@gmail.com
+
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samoz93&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
