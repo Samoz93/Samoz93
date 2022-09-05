@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Samoz93
-- 👀 I’m interested in flutter
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Flutter
+- I am working with Svelte/Express
+- I am currently learning DevOps
 - 📫 How to reach me samozayncom@gmail.com
 
 
