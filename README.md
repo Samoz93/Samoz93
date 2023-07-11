@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Samoz93
+- https://szoaa.net/
 - 👀 I’m interested in Flutter
 - I am working with Svelte/Express
 - I am currently learning DevOps
