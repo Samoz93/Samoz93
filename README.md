@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Samoz93
-- https://szoaa.net/
-- 👀 I’m interested in Flutter
-- I am working with Svelte/Express
-- I am currently learning DevOps
-- 📫 How to reach me samozayncom@gmail.com
-
+- 👋 Hi :)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samoz93&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samoz93&count_private=true&theme=radical)
