@@ -1,6 +1,4 @@
-- 👋 Hi :)
-
-
+- Me days and night :3
 ![alt text](https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif)
 
 <!---
